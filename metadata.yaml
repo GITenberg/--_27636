@@ -1,0 +1,32 @@
+_repo: --_27636
+_version: 0.1.0
+alternative_title:
+- "Chen Lun\r\nYu Dafu's Anthology"
+- 沉淪
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yu, Dafu
+    aliases:
+    - 郁達夫
+    - 郁达夫
+    birthdate: 1896
+    deathdate: 1945
+    gutenberg_agent_id: '32821'
+    url: http://www.gutenberg.org/2009/agents/32821
+    wikipedia: http://zh.wikipedia.org/wiki/%E9%83%81%E9%81%94%E5%A4%AB
+description: ''
+gutenberg_issued: '2008-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27636'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+title: 沉沦
+url: http://www.gutenberg.org/ebooks/27636
